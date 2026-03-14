@@ -1,4 +1,4 @@
-# OpenLo-Fi
+# Open Lo-fi
 
 A free, public-domain collection of over **150 lo-fi music tracks** across 10 categories.
 Use them in apps, videos, streams, games, podcasts — anything. No attribution required.
