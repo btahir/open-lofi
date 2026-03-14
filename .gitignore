@@ -1,5 +1,5 @@
-# Audio files (distributed via GitHub Releases, not git)
-tracks/**/*.mp3
+# Tracks (distributed via GitHub Releases, not git)
+tracks/
 
 # Release artifacts
 dist/
