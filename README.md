@@ -22,24 +22,7 @@ Released under [CC0 1.0 Universal](LICENSE) (public domain).
 
 ## Download
 
-All tracks are distributed as zip files attached to [GitHub Releases](https://github.com/btahir/open-lofi/releases).
-
-[**Download everything** (166 tracks)](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-complete.zip)
-
-Or grab individual categories:
-
-| Category | Download |
-|----------|----------|
-| Focus, Rituals & Daily Routines (29) | [openlofi-activities.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-activities.zip) |
-| Seasons, Rain & Weather (27) | [openlofi-seasonal-weather.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-seasonal-weather.zip) |
-| Ambient Drift & Dreamscapes (21) | [openlofi-ambient-lofi.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-ambient-lofi.zip) |
-| Soul, Slow Jams & Warm Rooms (21) | [openlofi-soul-rnb.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-soul-rnb.zip) |
-| Late Night, Neon & After Hours (18) | [openlofi-late-night.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-late-night.zip) |
-| Funk, Soul & Retro Bounce (14) | [openlofi-funk-soul.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-funk-soul.zip) |
-| Jazz Lounge & Bookstore Grooves (12) | [openlofi-jazzhop.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-jazzhop.zip) |
-| Chillhop & Cozy Beats (8) | [openlofi-chillhop.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-chillhop.zip) |
-| Asian & Zen Lo-Fi (8) | [openlofi-asian-lofi.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-asian-lofi.zip) |
-| Hybrid, World & Cinematic (8) | [openlofi-hybrid.zip](https://github.com/btahir/open-lofi/releases/latest/download/openlofi-hybrid.zip) |
+[**Download all tracks (openlofi.zip)**](https://github.com/btahir/open-lofi/releases/latest/download/openlofi.zip)
 
 ## Programmatic Access
 
