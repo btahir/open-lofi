@@ -1,6 +1,6 @@
 # OpenLo-Fi
 
-A free, public-domain collection of **166 lo-fi music tracks** across 10 categories.
+A free, public-domain collection of over **150 lo-fi music tracks** across 10 categories.
 Use them in apps, videos, streams, games, podcasts — anything. No attribution required.
 
 Released under [CC0 1.0 Universal](LICENSE) (public domain).
@@ -248,12 +248,3 @@ A machine-readable track manifest is available at [`catalog.json`](catalog.json)
 All tracks are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) —
 you can copy, modify, distribute, and use them for any purpose, including commercial, without asking permission or giving credit.
 
-## Contributing
-
-Want to add tracks to OpenLo-Fi?
-
-1. Place MP3 files in the appropriate `tracks/<category>/` folder (lowercase kebab-case filenames)
-2. Regenerate the catalog: ensure your tracks appear in `catalog.json`
-3. Open a pull request with a brief description of the new tracks
-
-All contributions must be original work that you release under CC0 1.0.
