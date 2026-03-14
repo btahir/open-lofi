@@ -1,0 +1,891 @@
+{
+  "name": "OpenLo-Fi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "description": "A free, public-domain collection of lo-fi music tracks.",
+  "trackCount": 166,
+  "categories": [
+    {
+      "slug": "chillhop",
+      "label": "Chillhop & Cozy Beats",
+      "trackCount": 8
+    },
+    {
+      "slug": "jazzhop",
+      "label": "Jazz Lounge & Bookstore Grooves",
+      "trackCount": 12
+    },
+    {
+      "slug": "ambient-lofi",
+      "label": "Ambient Drift & Dreamscapes",
+      "trackCount": 21
+    },
+    {
+      "slug": "soul-rnb",
+      "label": "Soul, Slow Jams & Warm Rooms",
+      "trackCount": 21
+    },
+    {
+      "slug": "asian-lofi",
+      "label": "Asian & Zen Lo-Fi",
+      "trackCount": 8
+    },
+    {
+      "slug": "funk-soul",
+      "label": "Funk, Soul & Retro Bounce",
+      "trackCount": 14
+    },
+    {
+      "slug": "seasonal-weather",
+      "label": "Seasons, Rain & Weather",
+      "trackCount": 27
+    },
+    {
+      "slug": "late-night",
+      "label": "Late Night, Neon & After Hours",
+      "trackCount": 18
+    },
+    {
+      "slug": "activities",
+      "label": "Focus, Rituals & Daily Routines",
+      "trackCount": 29
+    },
+    {
+      "slug": "hybrid",
+      "label": "Hybrid, World & Cinematic",
+      "trackCount": 8
+    }
+  ],
+  "tracks": [
+    {
+      "title": "2 AM Debug Loop",
+      "filename": "2-am-debug-loop.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Brushstrokes and Rain",
+      "filename": "brushstrokes-and-rain.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Butter and Windowlight",
+      "filename": "butter-and-windowlight.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Chapter By Lamplight",
+      "filename": "chapter-by-lamplight.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Coffee Ring Notebook",
+      "filename": "coffee-ring-notebook.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Continue Screen Dreams",
+      "filename": "continue-screen-dreams.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Cursor After Midnight",
+      "filename": "cursor-after-midnight.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Dog Eared Pages",
+      "filename": "dog-eared-pages.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Dust in the Curtains",
+      "filename": "dust-in-the-curtains.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Exhale the Morning",
+      "filename": "exhale-the-morning.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Faded Corners of the Page",
+      "filename": "faded-corners-of-the-page.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "First Coffee Thoughts",
+      "filename": "first-coffee-thoughts.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Graphite in the Quiet",
+      "filename": "graphite-in-the-quiet.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Graphite Mornings",
+      "filename": "graphite-mornings.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Hour Between Clicks",
+      "filename": "hour-between-clicks.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Kettle Before Work",
+      "filename": "kettle-before-work.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Margin Notes at Dusk",
+      "filename": "margin-notes-at-dusk.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Mat and Morning Light",
+      "filename": "mat-and-morning-light.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Morning in the Hiss",
+      "filename": "morning-in-the-hiss.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Morning Pages",
+      "filename": "morning-pages.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Pancakes in the Sun",
+      "filename": "pancakes-in-the-sun.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Penciled Sunbeams",
+      "filename": "penciled-sunbeams.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Pixel Quest Save Point",
+      "filename": "pixel-quest-save-point.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Quiet Lungs Quiet Light",
+      "filename": "quiet-lungs-quiet-light.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Stacks of Quiet Hours",
+      "filename": "stacks-of-quiet-hours.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Sunday Light Through Lace",
+      "filename": "sunday-light-through-lace.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Sunrise Stretch Flow",
+      "filename": "sunrise-stretch-flow.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Terminal Rain",
+      "filename": "terminal-rain.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Watercolors By the Window",
+      "filename": "watercolors-by-the-window.mp3",
+      "category": "activities"
+    },
+    {
+      "title": "Almost Floating",
+      "filename": "almost-floating.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Aurora on Mute",
+      "filename": "aurora-on-mute.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Blue Below the Surface",
+      "filename": "blue-below-the-surface.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Cathedral Hiss",
+      "filename": "cathedral-hiss.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Deep Space Loop",
+      "filename": "deep-space-loop.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Drifting Through Fog",
+      "filename": "drifting-through-fog.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "First Light on the Ridge",
+      "filename": "first-light-on-the-ridge.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Ghosts on the Hillside",
+      "filename": "ghosts-on-the-hillside.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Glasshouse Ghosts",
+      "filename": "glasshouse-ghosts.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Green After Midnight",
+      "filename": "green-after-midnight.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Misty Mountain Sunrise",
+      "filename": "misty-mountain-sunrise.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Moonlit Moss",
+      "filename": "moonlit-moss.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Orbiting in Silence",
+      "filename": "orbiting-in-silence.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Polar Afterglow",
+      "filename": "polar-afterglow.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Satellite Lullaby",
+      "filename": "satellite-lullaby.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Sea Glass Evening",
+      "filename": "sea-glass-evening.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Soft Weightless Hours",
+      "filename": "soft-weightless-hours.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Stained Glass Static",
+      "filename": "stained-glass-static.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Tide Pools at Twilight",
+      "filename": "tide-pools-at-twilight.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Underwater Dreamscape",
+      "filename": "underwater-dreamscape.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Warm Constellations",
+      "filename": "warm-constellations.mp3",
+      "category": "ambient-lofi"
+    },
+    {
+      "title": "Bamboo Shadow Waltz",
+      "filename": "bamboo-shadow-waltz.mp3",
+      "category": "asian-lofi"
+    },
+    {
+      "title": "Bells Before Sunrise",
+      "filename": "bells-before-sunrise.mp3",
+      "category": "asian-lofi"
+    },
+    {
+      "title": "Lanterns in Slow Motion",
+      "filename": "lanterns-in-slow-motion.mp3",
+      "category": "asian-lofi"
+    },
+    {
+      "title": "Misty Steam Quiet Dreams",
+      "filename": "misty-steam-quiet-dreams.mp3",
+      "category": "asian-lofi"
+    },
+    {
+      "title": "Moon Through Bamboo",
+      "filename": "moon-through-bamboo.mp3",
+      "category": "asian-lofi"
+    },
+    {
+      "title": "Paper Lantern Rain",
+      "filename": "paper-lantern-rain.mp3",
+      "category": "asian-lofi"
+    },
+    {
+      "title": "Teacup Morning Fog",
+      "filename": "teacup-morning-fog.mp3",
+      "category": "asian-lofi"
+    },
+    {
+      "title": "Temple at Dawn",
+      "filename": "temple-at-dawn.mp3",
+      "category": "asian-lofi"
+    },
+    {
+      "title": "Dusk Between Stoops",
+      "filename": "dusk-between-stoops.mp3",
+      "category": "chillhop"
+    },
+    {
+      "title": "Dust on the Morning Keys",
+      "filename": "dust-on-the-morning-keys.mp3",
+      "category": "chillhop"
+    },
+    {
+      "title": "Glow on the Overpass",
+      "filename": "glow-on-the-overpass.mp3",
+      "category": "chillhop"
+    },
+    {
+      "title": "Porchlight Golden Hour",
+      "filename": "porchlight-golden-hour.mp3",
+      "category": "chillhop"
+    },
+    {
+      "title": "Sidewalk Slow Jam",
+      "filename": "sidewalk-slow-jam.mp3",
+      "category": "chillhop"
+    },
+    {
+      "title": "Soft Gold Sky",
+      "filename": "soft-gold-sky.mp3",
+      "category": "chillhop"
+    },
+    {
+      "title": "Sunset Offbeat",
+      "filename": "sunset-offbeat.mp3",
+      "category": "chillhop"
+    },
+    {
+      "title": "Window Seat Daydream",
+      "filename": "window-seat-daydream.mp3",
+      "category": "chillhop"
+    },
+    {
+      "title": "Basement Groove 86",
+      "filename": "basement-groove-86.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Block Party Slow Jam",
+      "filename": "block-party-slow-jam.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Burnt Sunset Groove",
+      "filename": "burnt-sunset-groove.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Cassette Basement Bounce",
+      "filename": "cassette-basement-bounce.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Dust on the Needle",
+      "filename": "dust-on-the-needle.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Dusty Jukebox Heart",
+      "filename": "dusty-jukebox-heart.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Grandmas Kitchen on Sunday",
+      "filename": "grandmas-kitchen-on-sunday.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Mirrorball Slow Roll",
+      "filename": "mirrorball-slow-roll.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Motel Soul Radio",
+      "filename": "motel-soul-radio.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Neon on the Diner Floor",
+      "filename": "neon-on-the-diner-floor.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Peach Cobbler Static",
+      "filename": "peach-cobbler-static.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Roller Rink Reverie",
+      "filename": "roller-rink-reverie.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Smoke in the Orange Sky",
+      "filename": "smoke-in-the-orange-sky.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Summer Curbside Glow",
+      "filename": "summer-curbside-glow.mp3",
+      "category": "funk-soul"
+    },
+    {
+      "title": "Cafe Da Tarde",
+      "filename": "cafe-da-tarde.mp3",
+      "category": "hybrid"
+    },
+    {
+      "title": "Cassette Pastel Nights",
+      "filename": "cassette-pastel-nights.mp3",
+      "category": "hybrid"
+    },
+    {
+      "title": "Dusk on Red Earth",
+      "filename": "dusk-on-red-earth.mp3",
+      "category": "hybrid"
+    },
+    {
+      "title": "End Scene Glow",
+      "filename": "end-scene-glow.mp3",
+      "category": "hybrid"
+    },
+    {
+      "title": "Midnight Steam and Mango Skin",
+      "filename": "midnight-steam-and-mango-skin.mp3",
+      "category": "hybrid"
+    },
+    {
+      "title": "Quiet Credits",
+      "filename": "quiet-credits.mp3",
+      "category": "hybrid"
+    },
+    {
+      "title": "Savanna Slow Glow",
+      "filename": "savanna-slow-glow.mp3",
+      "category": "hybrid"
+    },
+    {
+      "title": "VHS Heartbeat",
+      "filename": "vhs-heartbeat.mp3",
+      "category": "hybrid"
+    },
+    {
+      "title": "Ashes in the Coffee Cup",
+      "filename": "ashes-in-the-coffee-cup.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Breezy Afternoon Terrace",
+      "filename": "breezy-afternoon-terrace.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Candlelit at 70 BPM",
+      "filename": "candlelit-at-70-bpm.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Dust and Hardcovers",
+      "filename": "dust-and-hardcovers.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Harbor Before Words",
+      "filename": "harbor-before-words.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Last Call in C Minor",
+      "filename": "last-call-in-c-minor.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Linen and Limoncello",
+      "filename": "linen-and-limoncello.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Midnight Amber Room",
+      "filename": "midnight-amber-room.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Rain on the Boulevard",
+      "filename": "rain-on-the-boulevard.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Saxophone in the Rain",
+      "filename": "saxophone-in-the-rain.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Stacks of Quiet Books",
+      "filename": "stacks-of-quiet-books.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "Velvet Cigarette Haze",
+      "filename": "velvet-cigarette-haze.mp3",
+      "category": "jazzhop"
+    },
+    {
+      "title": "3 AM Echoes",
+      "filename": "3-am-echoes.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Antenna After Midnight",
+      "filename": "antenna-after-midnight.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Blinds and Headlights",
+      "filename": "blinds-and-headlights.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Electric Puddles",
+      "filename": "electric-puddles.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Elevator To the Moon",
+      "filename": "elevator-to-the-moon.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Empty Street Static",
+      "filename": "empty-street-static.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Half Empty Coupe",
+      "filename": "half-empty-coupe.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Headlights on the Divider",
+      "filename": "headlights-on-the-divider.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "High Rise Haze",
+      "filename": "high-rise-haze.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Last Call at Table Nine",
+      "filename": "last-call-at-table-nine.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Last Train Home",
+      "filename": "last-train-home.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Midnight on My Mind",
+      "filename": "midnight-on-my-mind.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Midnight Window Glow",
+      "filename": "midnight-window-glow.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Platform After Rain",
+      "filename": "platform-after-rain.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Rain Off the Neon Signs",
+      "filename": "rain-off-the-neon-signs.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Rooftop Static Dreams",
+      "filename": "rooftop-static-dreams.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Streetlights in the Rearview",
+      "filename": "streetlights-in-the-rearview.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "Warm Mile Markers",
+      "filename": "warm-mile-markers.mp3",
+      "category": "late-night"
+    },
+    {
+      "title": "A Taste of Spring",
+      "filename": "a-taste-of-spring.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "After School Rain",
+      "filename": "after-school-rain.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Amber Sidewalks",
+      "filename": "amber-sidewalks.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Amber Windowpane",
+      "filename": "amber-windowpane.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Autumn on the Window Glass",
+      "filename": "autumn-on-the-window-glass.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Bloom Between Showers",
+      "filename": "bloom-between-showers.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Blossoms on the Pavement",
+      "filename": "blossoms-on-the-pavement.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Embers After Midnight",
+      "filename": "embers-after-midnight.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Fallen Leaves Loop",
+      "filename": "fallen-leaves-loop.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Fieldnotes at Dawn",
+      "filename": "fieldnotes-at-dawn.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Fireplace Loop",
+      "filename": "fireplace-loop.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Hammock in the Shade",
+      "filename": "hammock-in-the-shade.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Lemonade Film Grain",
+      "filename": "lemonade-film-grain.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Mist Over Green Fields",
+      "filename": "mist-over-green-fields.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Moon Over Red Dunes",
+      "filename": "moon-over-red-dunes.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Palm Breeze Nap",
+      "filename": "palm-breeze-nap.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Petals After Rain",
+      "filename": "petals-after-rain.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Petals in the Breeze",
+      "filename": "petals-in-the-breeze.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Picnic Polaroids",
+      "filename": "picnic-polaroids.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Sidewalk Puddles",
+      "filename": "sidewalk-puddles.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Snow on the Needle",
+      "filename": "snow-on-the-needle.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Spring Garden Loops",
+      "filename": "spring-garden-loops.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Starlight in the Sand",
+      "filename": "starlight-in-the-sand.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Storm Over Side Streets",
+      "filename": "storm-over-side-streets.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Thunder in the Dust",
+      "filename": "thunder-in-the-dust.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Tide Stained Polaroids",
+      "filename": "tide-stained-polaroids.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "Winter Turntable",
+      "filename": "winter-turntable.mp3",
+      "category": "seasonal-weather"
+    },
+    {
+      "title": "3AM Sink Light",
+      "filename": "3am-sink-light.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Barefoot in the Kitchen",
+      "filename": "barefoot-in-the-kitchen.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Candle Wax Heart",
+      "filename": "candle-wax-heart.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Envelope on the Bed",
+      "filename": "envelope-on-the-bed.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Golden Afternoon Groove",
+      "filename": "golden-afternoon-groove.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Honey on the Speakers",
+      "filename": "honey-on-the-speakers.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Kitchen After the Party",
+      "filename": "kitchen-after-the-party.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Lazy Love Letter Afternoon",
+      "filename": "lazy-love-letter-afternoon.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Midnight Notes on the Floor",
+      "filename": "midnight-notes-on-the-floor.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Midnight Table Talk",
+      "filename": "midnight-table-talk.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Old Photos New Heart",
+      "filename": "old-photos-new-heart.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Polaroids in A Shoebox",
+      "filename": "polaroids-in-a-shoebox.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Porcelain Heartbeat",
+      "filename": "porcelain-heartbeat.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Rain on Your Hoodie",
+      "filename": "rain-on-your-hoodie.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Record Player Embrace",
+      "filename": "record-player-embrace.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Rooftop Slow Jam",
+      "filename": "rooftop-slow-jam.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Scattered Sheet Music",
+      "filename": "scattered-sheet-music.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Skyline and Satin",
+      "filename": "skyline-and-satin.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Slow Dance in the Living Room",
+      "filename": "slow-dance-in-the-living-room.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Slow Dancing By the Stove",
+      "filename": "slow-dancing-by-the-stove.mp3",
+      "category": "soul-rnb"
+    },
+    {
+      "title": "Velvet Candle Smoke",
+      "filename": "velvet-candle-smoke.mp3",
+      "category": "soul-rnb"
+    }
+  ]
+}

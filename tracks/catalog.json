@@ -1,0 +1,1565 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-03-14T03:09:02.102Z",
+  "sourceDirectory": "tracks",
+  "trackCount": 166,
+  "fileCount": 166,
+  "categories": [
+    {
+      "slug": "chillhop",
+      "label": "Chillhop & Cozy Beats",
+      "description": "Warm keys, city walks, golden-hour grooves, and mellow head-nodders.",
+      "trackCount": 8
+    },
+    {
+      "slug": "jazzhop",
+      "label": "Jazz Lounge & Bookstore Grooves",
+      "description": "Brushes, upright bass, late-night tables, bookstores, and smoky corners.",
+      "trackCount": 12
+    },
+    {
+      "slug": "ambient-lofi",
+      "label": "Ambient Drift & Dreamscapes",
+      "description": "Clouds, fog, underwater textures, cosmic loops, and meditative quiet.",
+      "trackCount": 21
+    },
+    {
+      "slug": "soul-rnb",
+      "label": "Soul, Slow Jams & Warm Rooms",
+      "description": "Romance, nostalgia, intimate rooms, slow dances, and after-hours reflection.",
+      "trackCount": 21
+    },
+    {
+      "slug": "asian-lofi",
+      "label": "Asian & Zen Lo-Fi",
+      "description": "Temple dawns, bamboo moonlight, lantern streets, and tea-house calm.",
+      "trackCount": 8
+    },
+    {
+      "slug": "funk-soul",
+      "label": "Funk, Soul & Retro Bounce",
+      "description": "Block parties, jukebox glow, roller rinks, basement grooves, and family warmth.",
+      "trackCount": 14
+    },
+    {
+      "slug": "seasonal-weather",
+      "label": "Seasons, Rain & Weather",
+      "description": "Spring blooms, winter hush, storms, sidewalk puddles, coastlines, and outdoor air.",
+      "trackCount": 27
+    },
+    {
+      "slug": "late-night",
+      "label": "Late Night, Neon & After Hours",
+      "description": "3 AM loops, neon reflections, rooftops, last calls, trains, and empty streets.",
+      "trackCount": 18
+    },
+    {
+      "slug": "activities",
+      "label": "Focus, Rituals & Daily Routines",
+      "description": "Study, coding, reading, cooking, painting, yoga, journaling, and mindful routines.",
+      "trackCount": 29
+    },
+    {
+      "slug": "hybrid",
+      "label": "Hybrid, World & Cinematic",
+      "description": "Bossa, synthwave, afrobeat, tropical sketches, and credits-roll atmospheres.",
+      "trackCount": 8
+    }
+  ],
+  "tracks": [
+    {
+      "title": "2 AM Debug Loop",
+      "slug": "2-am-debug-loop",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/2-am-debug-loop.mp3",
+      "sizeBytes": 2333286,
+      "sha256": "26d25dda9658677ddccdfdef6c0d316761d9882447c329b86294416f8e44d4be"
+    },
+    {
+      "title": "Brushstrokes and Rain",
+      "slug": "brushstrokes-and-rain",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/brushstrokes-and-rain.mp3",
+      "sizeBytes": 3112494,
+      "sha256": "36fe21437ed352507e911329bcda5cd4b7258b1ba3cf349eec1c0c286a88006f"
+    },
+    {
+      "title": "Butter and Windowlight",
+      "slug": "butter-and-windowlight",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/butter-and-windowlight.mp3",
+      "sizeBytes": 3118854,
+      "sha256": "9b7e085a625cce27b5358b007764f51317c613c81ab8e046a97895ec3f8858da"
+    },
+    {
+      "title": "Chapter By Lamplight",
+      "slug": "chapter-by-lamplight",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/chapter-by-lamplight.mp3",
+      "sizeBytes": 3141462,
+      "sha256": "d892f78615b490db38866817ce477fb500bde37f3bc1e220703f534178743827"
+    },
+    {
+      "title": "Coffee Ring Notebook",
+      "slug": "coffee-ring-notebook",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/coffee-ring-notebook.mp3",
+      "sizeBytes": 2698566,
+      "sha256": "e9b6bbafe0c720f38d5df09b84afaf7f29075667ee55c2514d21e0982991149e"
+    },
+    {
+      "title": "Continue Screen Dreams",
+      "slug": "continue-screen-dreams",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/continue-screen-dreams.mp3",
+      "sizeBytes": 1873926,
+      "sha256": "8bca2116e603b858cffa96a830d2a932d445a3cdb81a2cdfc9d42cec10e6bf83"
+    },
+    {
+      "title": "Cursor After Midnight",
+      "slug": "cursor-after-midnight",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/cursor-after-midnight.mp3",
+      "sizeBytes": 4627158,
+      "sha256": "711e8ebe696ade8a24b5bff3231c6f2466e7293278dbfaee98805743ba35c92d"
+    },
+    {
+      "title": "Dog Eared Pages",
+      "slug": "dog-eared-pages",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/dog-eared-pages.mp3",
+      "sizeBytes": 3702726,
+      "sha256": "224093dcea2676d683c2aee72ec43a4670769dd8a85b2b97b4bcb2c7e151abaa"
+    },
+    {
+      "title": "Dust in the Curtains",
+      "slug": "dust-in-the-curtains",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/dust-in-the-curtains.mp3",
+      "sizeBytes": 3888006,
+      "sha256": "1b6c926a19848788bc4eed916f0967a089853c60aa6dac7621549367c68b355c"
+    },
+    {
+      "title": "Exhale the Morning",
+      "slug": "exhale-the-morning",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/exhale-the-morning.mp3",
+      "sizeBytes": 4046982,
+      "sha256": "0bd19598e7097d38333a78178d90aa7ccefa88bc4ddbb9d585a841ade12b23d0"
+    },
+    {
+      "title": "Faded Corners of the Page",
+      "slug": "faded-corners-of-the-page",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/faded-corners-of-the-page.mp3",
+      "sizeBytes": 3184854,
+      "sha256": "d2b07aa8e4223ae97e9ce5c8a54c3d9882a4106ee14c60532ec4bef1f468cee0"
+    },
+    {
+      "title": "First Coffee Thoughts",
+      "slug": "first-coffee-thoughts",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/first-coffee-thoughts.mp3",
+      "sizeBytes": 2240502,
+      "sha256": "981f25068f969e2940f9fbab5a35ab092f4d1af303e7ad63912ebf24ca33e156"
+    },
+    {
+      "title": "Graphite in the Quiet",
+      "slug": "graphite-in-the-quiet",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/graphite-in-the-quiet.mp3",
+      "sizeBytes": 3019518,
+      "sha256": "bbc4be5c0923c0c34e0a9c8dd0cd5d0096af358f3c49f380de0fc0b06cc825b0"
+    },
+    {
+      "title": "Graphite Mornings",
+      "slug": "graphite-mornings",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/graphite-mornings.mp3",
+      "sizeBytes": 2866230,
+      "sha256": "29154a7d6539482957ab8ccbb89d79c45173539653629f91f571281e2d5ceddf"
+    },
+    {
+      "title": "Hour Between Clicks",
+      "slug": "hour-between-clicks",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/hour-between-clicks.mp3",
+      "sizeBytes": 4808142,
+      "sha256": "f1263f9c9debdca7e7dc51d9bc6fa6aefe1e1f82dcf5a7bf86441dd09966f71d"
+    },
+    {
+      "title": "Kettle Before Work",
+      "slug": "kettle-before-work",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/kettle-before-work.mp3",
+      "sizeBytes": 3408294,
+      "sha256": "eb4f893e372133c9c2ab6d2e5992d53c2f9c87c88f93474ee220300c07b57301"
+    },
+    {
+      "title": "Margin Notes at Dusk",
+      "slug": "margin-notes-at-dusk",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/margin-notes-at-dusk.mp3",
+      "sizeBytes": 2881686,
+      "sha256": "54adce463c9862a17a2a3a5b078af2aa64b7d05658cfd1e828cabfa2f8fffb64"
+    },
+    {
+      "title": "Mat and Morning Light",
+      "slug": "mat-and-morning-light",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/mat-and-morning-light.mp3",
+      "sizeBytes": 4154622,
+      "sha256": "47adf914f3677bdc5a5ba788bba3a1125c3761a4103f1df2fe33a25810d14a2f"
+    },
+    {
+      "title": "Morning in the Hiss",
+      "slug": "morning-in-the-hiss",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/morning-in-the-hiss.mp3",
+      "sizeBytes": 2926470,
+      "sha256": "122363a96d24bf69fe0ebb5d153b8419592e6a6565ef8fc029d9e7f2e0492b54"
+    },
+    {
+      "title": "Morning Pages",
+      "slug": "morning-pages",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/morning-pages.mp3",
+      "sizeBytes": 3076182,
+      "sha256": "f1c6b44455d61ed3b641a72717e0e0d1379d0dd11a49c260011657fca759d228"
+    },
+    {
+      "title": "Pancakes in the Sun",
+      "slug": "pancakes-in-the-sun",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/pancakes-in-the-sun.mp3",
+      "sizeBytes": 2211654,
+      "sha256": "6f09c7f541200e00e9f9b9372316b27691703fe6b214ad0c541e2124d3bfba7a"
+    },
+    {
+      "title": "Penciled Sunbeams",
+      "slug": "penciled-sunbeams",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/penciled-sunbeams.mp3",
+      "sizeBytes": 2553366,
+      "sha256": "5351e71a6133b2e213cf7ae5aeadf5ef41483a53abecc77c2344ff50114418f9"
+    },
+    {
+      "title": "Pixel Quest Save Point",
+      "slug": "pixel-quest-save-point",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/pixel-quest-save-point.mp3",
+      "sizeBytes": 1690278,
+      "sha256": "536ed1ba4d8274b02bf48a6dab5377914029234e29669cee6e452004295d433d"
+    },
+    {
+      "title": "Quiet Lungs Quiet Light",
+      "slug": "quiet-lungs-quiet-light",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/quiet-lungs-quiet-light.mp3",
+      "sizeBytes": 3195510,
+      "sha256": "625e13a5db2712a12bd844fd75d38754445408304d21b9296bf1bb223ab49eb3"
+    },
+    {
+      "title": "Stacks of Quiet Hours",
+      "slug": "stacks-of-quiet-hours",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/stacks-of-quiet-hours.mp3",
+      "sizeBytes": 3356910,
+      "sha256": "fde17d22455d1a38d926c0d1f77da86d1c01619ff7038a92d5addac338cf99c5"
+    },
+    {
+      "title": "Sunday Light Through Lace",
+      "slug": "sunday-light-through-lace",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/sunday-light-through-lace.mp3",
+      "sizeBytes": 2689974,
+      "sha256": "203cbb7861901352d0e1c6a6c26c47c898fe91591b916093c5834dc3caa13d6c"
+    },
+    {
+      "title": "Sunrise Stretch Flow",
+      "slug": "sunrise-stretch-flow",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/sunrise-stretch-flow.mp3",
+      "sizeBytes": 3956166,
+      "sha256": "82adedab2adde6743e13103945cda43578b488177097cbaf3d012dfbb94a7ab6"
+    },
+    {
+      "title": "Terminal Rain",
+      "slug": "terminal-rain",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/terminal-rain.mp3",
+      "sizeBytes": 2650566,
+      "sha256": "fa8b129cb9deb2225db5bdfed55b531d0fcfae050bf62af551c30d8d5cd806ee"
+    },
+    {
+      "title": "Watercolors By the Window",
+      "slug": "watercolors-by-the-window",
+      "category": "activities",
+      "categoryLabel": "Focus, Rituals & Daily Routines",
+      "file": "tracks/activities/watercolors-by-the-window.mp3",
+      "sizeBytes": 2528982,
+      "sha256": "7a244b03857171a5d9632f0938bc4e82e0a3861e1e639a4feb01d2b5a5f0fa96"
+    },
+    {
+      "title": "Almost Floating",
+      "slug": "almost-floating",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/almost-floating.mp3",
+      "sizeBytes": 4530654,
+      "sha256": "0dc77845ad4986b2d37d5a23cf410b9d65bc2f029d5e36f2cd1c69ebd422971a"
+    },
+    {
+      "title": "Aurora on Mute",
+      "slug": "aurora-on-mute",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/aurora-on-mute.mp3",
+      "sizeBytes": 3489414,
+      "sha256": "a476ca2262812f64e8bc06c06d71fa19c77a8d83dbe7c6f024020ea9a96559f6"
+    },
+    {
+      "title": "Blue Below the Surface",
+      "slug": "blue-below-the-surface",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/blue-below-the-surface.mp3",
+      "sizeBytes": 4079910,
+      "sha256": "374d66e77071eb81afa8ea62f5545cb41eb5fff89a17f2f8849f60ebc3ff921a"
+    },
+    {
+      "title": "Cathedral Hiss",
+      "slug": "cathedral-hiss",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/cathedral-hiss.mp3",
+      "sizeBytes": 4500942,
+      "sha256": "2b6602268035f788e2b14dca33f6ce1475927f3dd520e1537c422aaa4343b850"
+    },
+    {
+      "title": "Deep Space Loop",
+      "slug": "deep-space-loop",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/deep-space-loop.mp3",
+      "sizeBytes": 3597270,
+      "sha256": "90f897194420809f1752f716611852e85fc0e2c54e1e2002bc07cbd701e87d85"
+    },
+    {
+      "title": "Drifting Through Fog",
+      "slug": "drifting-through-fog",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/drifting-through-fog.mp3",
+      "sizeBytes": 3889158,
+      "sha256": "6e367cdd324e72984deae5bb507c868e6f8551d90f93986f321a2083303bee0c"
+    },
+    {
+      "title": "First Light on the Ridge",
+      "slug": "first-light-on-the-ridge",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/first-light-on-the-ridge.mp3",
+      "sizeBytes": 3658374,
+      "sha256": "e54bd38fbd84d7572921d6a992ed282ea67d0ba7a8f815adff6b6713f2928de3"
+    },
+    {
+      "title": "Ghosts on the Hillside",
+      "slug": "ghosts-on-the-hillside",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/ghosts-on-the-hillside.mp3",
+      "sizeBytes": 4307478,
+      "sha256": "eb0a548100a9a7535ef3d71a5dc4376ab39620f548bf5049068f320cc484b74f"
+    },
+    {
+      "title": "Glasshouse Ghosts",
+      "slug": "glasshouse-ghosts",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/glasshouse-ghosts.mp3",
+      "sizeBytes": 3898446,
+      "sha256": "ca4ffcf1fb4a350c0e1b878a8178c085f046e1fec230306e6dcfffb96ffdfcc8"
+    },
+    {
+      "title": "Green After Midnight",
+      "slug": "green-after-midnight",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/green-after-midnight.mp3",
+      "sizeBytes": 3258342,
+      "sha256": "3707978d32c717c05c754570997eba6d69622d75a4ddab543f5814cc7449f27f"
+    },
+    {
+      "title": "Misty Mountain Sunrise",
+      "slug": "misty-mountain-sunrise",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/misty-mountain-sunrise.mp3",
+      "sizeBytes": 3170262,
+      "sha256": "a7f7d8f6fc369f8cd3b00c1c477ce898c6149fa34edb0ca165307fc3c7036232"
+    },
+    {
+      "title": "Moonlit Moss",
+      "slug": "moonlit-moss",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/moonlit-moss.mp3",
+      "sizeBytes": 2892102,
+      "sha256": "b19d90d8fdfa1af394a112406dbb576870c0120c741d19b6790581a15891bfd2"
+    },
+    {
+      "title": "Orbiting in Silence",
+      "slug": "orbiting-in-silence",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/orbiting-in-silence.mp3",
+      "sizeBytes": 3564054,
+      "sha256": "4a8f7eb8c2eeec408fd70f74c6072ea79d1fdd73384b6720a4ae020ac5af052f"
+    },
+    {
+      "title": "Polar Afterglow",
+      "slug": "polar-afterglow",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/polar-afterglow.mp3",
+      "sizeBytes": 6799710,
+      "sha256": "e4760e26a0b5daa9821ba1ff1ccdad7506cdbf5283bd1ec07122dd7ee5d033eb"
+    },
+    {
+      "title": "Satellite Lullaby",
+      "slug": "satellite-lullaby",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/satellite-lullaby.mp3",
+      "sizeBytes": 2773974,
+      "sha256": "4b09665c8fa89c02d9f4eb9160d88b5a271714456f4805b597e1d231c6c280ea"
+    },
+    {
+      "title": "Sea Glass Evening",
+      "slug": "sea-glass-evening",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/sea-glass-evening.mp3",
+      "sizeBytes": 5000358,
+      "sha256": "d78b9454804293994567fff90429361cb87a268beb7892a87d93a255197e7f68"
+    },
+    {
+      "title": "Soft Weightless Hours",
+      "slug": "soft-weightless-hours",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/soft-weightless-hours.mp3",
+      "sizeBytes": 4640502,
+      "sha256": "d134602da470c2caf9cba45788dbc5ec339fc1e61c761390002707733fa08d2e"
+    },
+    {
+      "title": "Stained Glass Static",
+      "slug": "stained-glass-static",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/stained-glass-static.mp3",
+      "sizeBytes": 3525990,
+      "sha256": "7c8bd67b83af4435d97106cf088c1ffedf9016bc3b1f02ad7d35c9be54f64cc5"
+    },
+    {
+      "title": "Tide Pools at Twilight",
+      "slug": "tide-pools-at-twilight",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/tide-pools-at-twilight.mp3",
+      "sizeBytes": 4256598,
+      "sha256": "55927d3916fd733ea0674933aaa5a1e5bad830b9dd746e9201d19d9cb40b214a"
+    },
+    {
+      "title": "Underwater Dreamscape",
+      "slug": "underwater-dreamscape",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/underwater-dreamscape.mp3",
+      "sizeBytes": 4687302,
+      "sha256": "ac97e25e7906095ae55d89aab77d37db072f3e95b26d208528e3dcaa8b407cdc"
+    },
+    {
+      "title": "Warm Constellations",
+      "slug": "warm-constellations",
+      "category": "ambient-lofi",
+      "categoryLabel": "Ambient Drift & Dreamscapes",
+      "file": "tracks/ambient-lofi/warm-constellations.mp3",
+      "sizeBytes": 2485302,
+      "sha256": "abcc5a7ebe752617ef72b3e205950eedff76e8d985424a0fc646879ca43a343c"
+    },
+    {
+      "title": "Bamboo Shadow Waltz",
+      "slug": "bamboo-shadow-waltz",
+      "category": "asian-lofi",
+      "categoryLabel": "Asian & Zen Lo-Fi",
+      "file": "tracks/asian-lofi/bamboo-shadow-waltz.mp3",
+      "sizeBytes": 3512406,
+      "sha256": "0882cb82fce3fa52ab53518db8b11750cefa7840b9a5db44d063d2e2d1b0d259"
+    },
+    {
+      "title": "Bells Before Sunrise",
+      "slug": "bells-before-sunrise",
+      "category": "asian-lofi",
+      "categoryLabel": "Asian & Zen Lo-Fi",
+      "file": "tracks/asian-lofi/bells-before-sunrise.mp3",
+      "sizeBytes": 2818662,
+      "sha256": "e702f898f78121596990e0a34768884c60057eb7191a3c5b8e2880589091b582"
+    },
+    {
+      "title": "Lanterns in Slow Motion",
+      "slug": "lanterns-in-slow-motion",
+      "category": "asian-lofi",
+      "categoryLabel": "Asian & Zen Lo-Fi",
+      "file": "tracks/asian-lofi/lanterns-in-slow-motion.mp3",
+      "sizeBytes": 3648150,
+      "sha256": "e5d2134327fe16164570ce5531afceea7956d652487eba6148414db842aa5722"
+    },
+    {
+      "title": "Misty Steam Quiet Dreams",
+      "slug": "misty-steam-quiet-dreams",
+      "category": "asian-lofi",
+      "categoryLabel": "Asian & Zen Lo-Fi",
+      "file": "tracks/asian-lofi/misty-steam-quiet-dreams.mp3",
+      "sizeBytes": 3034926,
+      "sha256": "7d05e8c3ab455ccf95865d8769236f5966e00463828c25ed086cba8173fbafa5"
+    },
+    {
+      "title": "Moon Through Bamboo",
+      "slug": "moon-through-bamboo",
+      "category": "asian-lofi",
+      "categoryLabel": "Asian & Zen Lo-Fi",
+      "file": "tracks/asian-lofi/moon-through-bamboo.mp3",
+      "sizeBytes": 3749958,
+      "sha256": "cd952244f9360c8508fa784c8fe934db7b0a00312741142b380f75818fa51643"
+    },
+    {
+      "title": "Paper Lantern Rain",
+      "slug": "paper-lantern-rain",
+      "category": "asian-lofi",
+      "categoryLabel": "Asian & Zen Lo-Fi",
+      "file": "tracks/asian-lofi/paper-lantern-rain.mp3",
+      "sizeBytes": 3651606,
+      "sha256": "c4194754df859cf9efd1ff5d842cd0b7e3b905142cce98655b8734eb2e22fd85"
+    },
+    {
+      "title": "Teacup Morning Fog",
+      "slug": "teacup-morning-fog",
+      "category": "asian-lofi",
+      "categoryLabel": "Asian & Zen Lo-Fi",
+      "file": "tracks/asian-lofi/teacup-morning-fog.mp3",
+      "sizeBytes": 3018414,
+      "sha256": "5f1a28c897084c1b38b187164bd457d73f019fba54f8a4929cbd2e351d2a989a"
+    },
+    {
+      "title": "Temple at Dawn",
+      "slug": "temple-at-dawn",
+      "category": "asian-lofi",
+      "categoryLabel": "Asian & Zen Lo-Fi",
+      "file": "tracks/asian-lofi/temple-at-dawn.mp3",
+      "sizeBytes": 2728926,
+      "sha256": "c0965dec25d7296d8cd24091b3053b7f0e0eabd8448c6b3cd667c65c913207c6"
+    },
+    {
+      "title": "Dusk Between Stoops",
+      "slug": "dusk-between-stoops",
+      "category": "chillhop",
+      "categoryLabel": "Chillhop & Cozy Beats",
+      "file": "tracks/chillhop/dusk-between-stoops.mp3",
+      "sizeBytes": 2687238,
+      "sha256": "a0e91117def9148dafe28022712c7f16b6872516f28df9ed05a5bb3ec0bc3912"
+    },
+    {
+      "title": "Dust on the Morning Keys",
+      "slug": "dust-on-the-morning-keys",
+      "category": "chillhop",
+      "categoryLabel": "Chillhop & Cozy Beats",
+      "file": "tracks/chillhop/dust-on-the-morning-keys.mp3",
+      "sizeBytes": 3244566,
+      "sha256": "819a31ecf338fd0256493824209267061a37963c52bbee71a84dcbedce42bae6"
+    },
+    {
+      "title": "Glow on the Overpass",
+      "slug": "glow-on-the-overpass",
+      "category": "chillhop",
+      "categoryLabel": "Chillhop & Cozy Beats",
+      "file": "tracks/chillhop/glow-on-the-overpass.mp3",
+      "sizeBytes": 3066246,
+      "sha256": "ac833d9a0bd67d7481cfd78053a66e55124afc766e8fccb2697963416140ed11"
+    },
+    {
+      "title": "Porchlight Golden Hour",
+      "slug": "porchlight-golden-hour",
+      "category": "chillhop",
+      "categoryLabel": "Chillhop & Cozy Beats",
+      "file": "tracks/chillhop/porchlight-golden-hour.mp3",
+      "sizeBytes": 2799942,
+      "sha256": "09026a7daeee8a49734c5412e863f243d6277d8601cbc1a8f0604a51c35716d1"
+    },
+    {
+      "title": "Sidewalk Slow Jam",
+      "slug": "sidewalk-slow-jam",
+      "category": "chillhop",
+      "categoryLabel": "Chillhop & Cozy Beats",
+      "file": "tracks/chillhop/sidewalk-slow-jam.mp3",
+      "sizeBytes": 3239286,
+      "sha256": "8116a8108b69d8706028a9fd1df7891e79f41ca567f4b77d4f3d9ff92068b3c8"
+    },
+    {
+      "title": "Soft Gold Sky",
+      "slug": "soft-gold-sky",
+      "category": "chillhop",
+      "categoryLabel": "Chillhop & Cozy Beats",
+      "file": "tracks/chillhop/soft-gold-sky.mp3",
+      "sizeBytes": 2799846,
+      "sha256": "c3a0a146a63dc53c7aafbf7aa100d3b5188abcb0ba7ed9312ada1a0e6bffb1d3"
+    },
+    {
+      "title": "Sunset Offbeat",
+      "slug": "sunset-offbeat",
+      "category": "chillhop",
+      "categoryLabel": "Chillhop & Cozy Beats",
+      "file": "tracks/chillhop/sunset-offbeat.mp3",
+      "sizeBytes": 3627030,
+      "sha256": "144bd62d4a762c281a432867ea38e5a459885cb7964683ae69505a959434a25e"
+    },
+    {
+      "title": "Window Seat Daydream",
+      "slug": "window-seat-daydream",
+      "category": "chillhop",
+      "categoryLabel": "Chillhop & Cozy Beats",
+      "file": "tracks/chillhop/window-seat-daydream.mp3",
+      "sizeBytes": 2805030,
+      "sha256": "7cca71adab62b7cb44fe702c6c233089234b62bc6b2fff4db998c5cf7b43e04c"
+    },
+    {
+      "title": "Basement Groove 86",
+      "slug": "basement-groove-86",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/basement-groove-86.mp3",
+      "sizeBytes": 2383158,
+      "sha256": "ed1fa6eaff2c5606e6690efc7d67d3965831c7f1a72f4b30ba2fc89e0f5f2a16"
+    },
+    {
+      "title": "Block Party Slow Jam",
+      "slug": "block-party-slow-jam",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/block-party-slow-jam.mp3",
+      "sizeBytes": 3510198,
+      "sha256": "d92a4e9f692b85ae2c601d0a5a391d9544e0fda40e917a0e7d46d35df147e6d6"
+    },
+    {
+      "title": "Burnt Sunset Groove",
+      "slug": "burnt-sunset-groove",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/burnt-sunset-groove.mp3",
+      "sizeBytes": 4912662,
+      "sha256": "67600612cc31da06d01da9ff84c9d7e59d6f23713c8463ffef2283c9d416289a"
+    },
+    {
+      "title": "Cassette Basement Bounce",
+      "slug": "cassette-basement-bounce",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/cassette-basement-bounce.mp3",
+      "sizeBytes": 3952950,
+      "sha256": "531330afc904224fc01a06bf7b48137b1c5617cb1ac1bf4ac0d7d046a75c4fa5"
+    },
+    {
+      "title": "Dust on the Needle",
+      "slug": "dust-on-the-needle",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/dust-on-the-needle.mp3",
+      "sizeBytes": 3383574,
+      "sha256": "1ca748058d6daca31847efa38478628ebd375c07046fa59d78441691cb068e13"
+    },
+    {
+      "title": "Dusty Jukebox Heart",
+      "slug": "dusty-jukebox-heart",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/dusty-jukebox-heart.mp3",
+      "sizeBytes": 3390678,
+      "sha256": "78055e4bfaed9c92a43142af5f3ebe9ff31d0ac50910136c803f994483bb3dff"
+    },
+    {
+      "title": "Grandmas Kitchen on Sunday",
+      "slug": "grandmas-kitchen-on-sunday",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/grandmas-kitchen-on-sunday.mp3",
+      "sizeBytes": 4788294,
+      "sha256": "690dd35574e3c43c206f0977d71aea8bc92e7dee30f783d660c2ee164f873bf5"
+    },
+    {
+      "title": "Mirrorball Slow Roll",
+      "slug": "mirrorball-slow-roll",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/mirrorball-slow-roll.mp3",
+      "sizeBytes": 3215718,
+      "sha256": "3f6ee2e32c175c32b9d1bf8417e1a0984a3cd16ccc272650d63eef91b2565f79"
+    },
+    {
+      "title": "Motel Soul Radio",
+      "slug": "motel-soul-radio",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/motel-soul-radio.mp3",
+      "sizeBytes": 3467382,
+      "sha256": "acf80543da7bcd9585951a6e2e393f8228793597ff306df508a5b3c5d747680b"
+    },
+    {
+      "title": "Neon on the Diner Floor",
+      "slug": "neon-on-the-diner-floor",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/neon-on-the-diner-floor.mp3",
+      "sizeBytes": 3183894,
+      "sha256": "21a31c63b4c2d3e21681c31d16c369b39a96f4b1486b00d70e6947abb500d713"
+    },
+    {
+      "title": "Peach Cobbler Static",
+      "slug": "peach-cobbler-static",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/peach-cobbler-static.mp3",
+      "sizeBytes": 3705822,
+      "sha256": "91802af3f6dc4e6953fd68ff52d844725931fd67d42bd405f7b053cb3a885522"
+    },
+    {
+      "title": "Roller Rink Reverie",
+      "slug": "roller-rink-reverie",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/roller-rink-reverie.mp3",
+      "sizeBytes": 2574342,
+      "sha256": "547f575ae085977a8ce8618adcf7750c51b4b89a3ae71ca9a8a149f8f60087ee"
+    },
+    {
+      "title": "Smoke in the Orange Sky",
+      "slug": "smoke-in-the-orange-sky",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/smoke-in-the-orange-sky.mp3",
+      "sizeBytes": 3679206,
+      "sha256": "a06c8ebfd160f484cdb90370bab4f1fa4ded71197adb476e508d84a620bddd8e"
+    },
+    {
+      "title": "Summer Curbside Glow",
+      "slug": "summer-curbside-glow",
+      "category": "funk-soul",
+      "categoryLabel": "Funk, Soul & Retro Bounce",
+      "file": "tracks/funk-soul/summer-curbside-glow.mp3",
+      "sizeBytes": 3632118,
+      "sha256": "1cf312ab9f1a82300cfa1d9e8fe356e70b66130dd9a6bac4b11c081be791d2bc"
+    },
+    {
+      "title": "Cafe Da Tarde",
+      "slug": "cafe-da-tarde",
+      "category": "hybrid",
+      "categoryLabel": "Hybrid, World & Cinematic",
+      "file": "tracks/hybrid/cafe-da-tarde.mp3",
+      "sizeBytes": 2640078,
+      "sha256": "b197f7a73480a2aafb0417dcee1a435a03eca942c29da4043c75da2f0952af54"
+    },
+    {
+      "title": "Cassette Pastel Nights",
+      "slug": "cassette-pastel-nights",
+      "category": "hybrid",
+      "categoryLabel": "Hybrid, World & Cinematic",
+      "file": "tracks/hybrid/cassette-pastel-nights.mp3",
+      "sizeBytes": 5220702,
+      "sha256": "3c3903cf4a7762f782706b0ced0f5c612f510d5c5a45e1472aa227e2e437beb0"
+    },
+    {
+      "title": "Dusk on Red Earth",
+      "slug": "dusk-on-red-earth",
+      "category": "hybrid",
+      "categoryLabel": "Hybrid, World & Cinematic",
+      "file": "tracks/hybrid/dusk-on-red-earth.mp3",
+      "sizeBytes": 3514998,
+      "sha256": "aa1aefb7fd1c373b93d0d19aeecfba14f8645ac34b7156014be0e7e58b17284f"
+    },
+    {
+      "title": "End Scene Glow",
+      "slug": "end-scene-glow",
+      "category": "hybrid",
+      "categoryLabel": "Hybrid, World & Cinematic",
+      "file": "tracks/hybrid/end-scene-glow.mp3",
+      "sizeBytes": 4559094,
+      "sha256": "16c9eba72fc9e147aa2d05430f73dc74c29a7ee4f694eb178692531d98ede32c"
+    },
+    {
+      "title": "Midnight Steam and Mango Skin",
+      "slug": "midnight-steam-and-mango-skin",
+      "category": "hybrid",
+      "categoryLabel": "Hybrid, World & Cinematic",
+      "file": "tracks/hybrid/midnight-steam-and-mango-skin.mp3",
+      "sizeBytes": 3147558,
+      "sha256": "db54e35cdbf255de6639bbd24c411039b4a1a753c898c5671d8b973e012285f1"
+    },
+    {
+      "title": "Quiet Credits",
+      "slug": "quiet-credits",
+      "category": "hybrid",
+      "categoryLabel": "Hybrid, World & Cinematic",
+      "file": "tracks/hybrid/quiet-credits.mp3",
+      "sizeBytes": 3921534,
+      "sha256": "790994da2fd68ca8b9976c10cfce07bd5178c487e9c70aa753271c2f2dae5e85"
+    },
+    {
+      "title": "Savanna Slow Glow",
+      "slug": "savanna-slow-glow",
+      "category": "hybrid",
+      "categoryLabel": "Hybrid, World & Cinematic",
+      "file": "tracks/hybrid/savanna-slow-glow.mp3",
+      "sizeBytes": 3031974,
+      "sha256": "c2851733a08bc5df4d175c385d798460f8681e208b7c06fc55365c2b79503e02"
+    },
+    {
+      "title": "VHS Heartbeat",
+      "slug": "vhs-heartbeat",
+      "category": "hybrid",
+      "categoryLabel": "Hybrid, World & Cinematic",
+      "file": "tracks/hybrid/vhs-heartbeat.mp3",
+      "sizeBytes": 4726782,
+      "sha256": "5ab7c01ad7af519fce51142d45766c905709e64c5b92d07ce98af5a324f77fb3"
+    },
+    {
+      "title": "Ashes in the Coffee Cup",
+      "slug": "ashes-in-the-coffee-cup",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/ashes-in-the-coffee-cup.mp3",
+      "sizeBytes": 2789502,
+      "sha256": "ad3e10f2605393431fd69f9259d906be9703eabd84c80ed51755c8e7c96fbc74"
+    },
+    {
+      "title": "Breezy Afternoon Terrace",
+      "slug": "breezy-afternoon-terrace",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/breezy-afternoon-terrace.mp3",
+      "sizeBytes": 1923870,
+      "sha256": "265c3ab14947b1f21e1cd35090f73210114867b767ba43ba4d0da5bc786ff3d1"
+    },
+    {
+      "title": "Candlelit at 70 BPM",
+      "slug": "candlelit-at-70-bpm",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/candlelit-at-70-bpm.mp3",
+      "sizeBytes": 2534742,
+      "sha256": "66839600493a1e0e0deafd34eff33a592e1421f625dcd2c36ad69aa8e23958cb"
+    },
+    {
+      "title": "Dust and Hardcovers",
+      "slug": "dust-and-hardcovers",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/dust-and-hardcovers.mp3",
+      "sizeBytes": 4943310,
+      "sha256": "a3a008dc5ae4bfd007c17d1795979e555b5b1f57f9c4f7a6d1b514317a2bd6fd"
+    },
+    {
+      "title": "Harbor Before Words",
+      "slug": "harbor-before-words",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/harbor-before-words.mp3",
+      "sizeBytes": 3171990,
+      "sha256": "dbeed5e9c00a035bc25a022135ee0794fa58e1729df4cd46c5f81e3c6c445573"
+    },
+    {
+      "title": "Last Call in C Minor",
+      "slug": "last-call-in-c-minor",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/last-call-in-c-minor.mp3",
+      "sizeBytes": 3359478,
+      "sha256": "0208fc831aff462c51f0b1c06f05c2a5903cb6add311ac4276a18c8237f4c757"
+    },
+    {
+      "title": "Linen and Limoncello",
+      "slug": "linen-and-limoncello",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/linen-and-limoncello.mp3",
+      "sizeBytes": 2684502,
+      "sha256": "8597915f9ce72911a834b3b65d5777c186a0a50d142751f930db8cb98522dcd3"
+    },
+    {
+      "title": "Midnight Amber Room",
+      "slug": "midnight-amber-room",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/midnight-amber-room.mp3",
+      "sizeBytes": 3258654,
+      "sha256": "5cb2b776f970d7fc05cfbf6dcf7650b5f9d14ba34e6f4bad74cb29649a5a3403"
+    },
+    {
+      "title": "Rain on the Boulevard",
+      "slug": "rain-on-the-boulevard",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/rain-on-the-boulevard.mp3",
+      "sizeBytes": 1872918,
+      "sha256": "49d52481bdde0aedfcf39c4a6eb90011b622017a38afe0717681cc8402170dbb"
+    },
+    {
+      "title": "Saxophone in the Rain",
+      "slug": "saxophone-in-the-rain",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/saxophone-in-the-rain.mp3",
+      "sizeBytes": 2028438,
+      "sha256": "03868a0e561eadb7f67a56312c893446ac9e3782fa5d2871c7c28fd8dc773cb0"
+    },
+    {
+      "title": "Stacks of Quiet Books",
+      "slug": "stacks-of-quiet-books",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/stacks-of-quiet-books.mp3",
+      "sizeBytes": 4011342,
+      "sha256": "c7a011960a4b6f549c1f5437350681b17b1331bb3b95cb34d59cc36de34ea620"
+    },
+    {
+      "title": "Velvet Cigarette Haze",
+      "slug": "velvet-cigarette-haze",
+      "category": "jazzhop",
+      "categoryLabel": "Jazz Lounge & Bookstore Grooves",
+      "file": "tracks/jazzhop/velvet-cigarette-haze.mp3",
+      "sizeBytes": 3430422,
+      "sha256": "5f482b1f7965d32c98304a88665e2cdb5e7eb2c2de71bfc948d2525f2a49c541"
+    },
+    {
+      "title": "3 AM Echoes",
+      "slug": "3-am-echoes",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/3-am-echoes.mp3",
+      "sizeBytes": 2058870,
+      "sha256": "629a37e6d67ead58d90773dda30710d7f4524f6004cf471d60e4c2e0b290749d"
+    },
+    {
+      "title": "Antenna After Midnight",
+      "slug": "antenna-after-midnight",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/antenna-after-midnight.mp3",
+      "sizeBytes": 3562014,
+      "sha256": "7c3f54da7badbb6a3e780aae9fe642a3b6b6962f7a7fe8c237e497ad221440f8"
+    },
+    {
+      "title": "Blinds and Headlights",
+      "slug": "blinds-and-headlights",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/blinds-and-headlights.mp3",
+      "sizeBytes": 3063462,
+      "sha256": "3894e6c610499f90d259bd3821ef92cd534f88226d0e4dd1c70b7784a74ea968"
+    },
+    {
+      "title": "Electric Puddles",
+      "slug": "electric-puddles",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/electric-puddles.mp3",
+      "sizeBytes": 3152310,
+      "sha256": "07f3a39d940231dc036d245cd676917fc4544832dc0b78a59a66b9315d614d6c"
+    },
+    {
+      "title": "Elevator To the Moon",
+      "slug": "elevator-to-the-moon",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/elevator-to-the-moon.mp3",
+      "sizeBytes": 3935070,
+      "sha256": "0f9a097c42dcf78c8d873aebd1532ff7aa98f21f28e2e29b3f1c0e4aafb92f60"
+    },
+    {
+      "title": "Empty Street Static",
+      "slug": "empty-street-static",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/empty-street-static.mp3",
+      "sizeBytes": 2374038,
+      "sha256": "73afd5be3678a13b3dcc7f2c8e9801af56d0a9188de459cae9de72263e9a0b40"
+    },
+    {
+      "title": "Half Empty Coupe",
+      "slug": "half-empty-coupe",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/half-empty-coupe.mp3",
+      "sizeBytes": 3887286,
+      "sha256": "eac9d7346cf118b5edef053d52e23b9a2e8238eedb58b698135acf98a4c5c32c"
+    },
+    {
+      "title": "Headlights on the Divider",
+      "slug": "headlights-on-the-divider",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/headlights-on-the-divider.mp3",
+      "sizeBytes": 3880206,
+      "sha256": "729317e68ca99db7d4b78bf5679aa133b8a825c8aff678217e1fe475bc078c0d"
+    },
+    {
+      "title": "High Rise Haze",
+      "slug": "high-rise-haze",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/high-rise-haze.mp3",
+      "sizeBytes": 2937654,
+      "sha256": "dcedeb786bcc3964f44ff0cb6407212d34d9a1b3e2e463c2430d45b0ac555f0d"
+    },
+    {
+      "title": "Last Call at Table Nine",
+      "slug": "last-call-at-table-nine",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/last-call-at-table-nine.mp3",
+      "sizeBytes": 4749462,
+      "sha256": "d395399408d0bef12f75bc376e11ebd47a4bfbfde29348519a02bb435577eb26"
+    },
+    {
+      "title": "Last Train Home",
+      "slug": "last-train-home",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/last-train-home.mp3",
+      "sizeBytes": 4083678,
+      "sha256": "3a48378e9fa23c1bd110481dce628d650f51be56fa796927f87716cd10b2dbc7"
+    },
+    {
+      "title": "Midnight on My Mind",
+      "slug": "midnight-on-my-mind",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/midnight-on-my-mind.mp3",
+      "sizeBytes": 3005334,
+      "sha256": "a621fa7052faa1396dd69c104455d7a473bbf213e7c16f013cb40b413a69b330"
+    },
+    {
+      "title": "Midnight Window Glow",
+      "slug": "midnight-window-glow",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/midnight-window-glow.mp3",
+      "sizeBytes": 2914326,
+      "sha256": "cc087a8f813689a6c6e068e1a5b83ccff5f1f0c0d3b011ad901fd1e2ce591c47"
+    },
+    {
+      "title": "Platform After Rain",
+      "slug": "platform-after-rain",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/platform-after-rain.mp3",
+      "sizeBytes": 3423582,
+      "sha256": "6e333997193c466a534c0ce12c29a7f7bfc5e331b6789473fadf498293fa7c55"
+    },
+    {
+      "title": "Rain Off the Neon Signs",
+      "slug": "rain-off-the-neon-signs",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/rain-off-the-neon-signs.mp3",
+      "sizeBytes": 2688870,
+      "sha256": "948b123d3a5e26c99e293331e61e19c8f66b949c28125b8e79831ef8709cc77f"
+    },
+    {
+      "title": "Rooftop Static Dreams",
+      "slug": "rooftop-static-dreams",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/rooftop-static-dreams.mp3",
+      "sizeBytes": 3611670,
+      "sha256": "a56a7e20ead08292d7d1aa9d42f4ccf69774b1ca1d7d9a0d9d35e3e7ea9c66fa"
+    },
+    {
+      "title": "Streetlights in the Rearview",
+      "slug": "streetlights-in-the-rearview",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/streetlights-in-the-rearview.mp3",
+      "sizeBytes": 2786262,
+      "sha256": "3ca47cdaa321a4a258fc5e80a92d7c636368746bfca4280f395283e113ff3656"
+    },
+    {
+      "title": "Warm Mile Markers",
+      "slug": "warm-mile-markers",
+      "category": "late-night",
+      "categoryLabel": "Late Night, Neon & After Hours",
+      "file": "tracks/late-night/warm-mile-markers.mp3",
+      "sizeBytes": 3727710,
+      "sha256": "28e4852ba4439c64c51dc32f9a01aadc6d44ea0d2dd99d20b82baa45fa72e5ea"
+    },
+    {
+      "title": "A Taste of Spring",
+      "slug": "a-taste-of-spring",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/a-taste-of-spring.mp3",
+      "sizeBytes": 4167318,
+      "sha256": "b3b187d116766916683dda5af2db9ce541610f959f80c6ec9cd04dd15724bef3"
+    },
+    {
+      "title": "After School Rain",
+      "slug": "after-school-rain",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/after-school-rain.mp3",
+      "sizeBytes": 2330190,
+      "sha256": "02389a480381b579941934251687b8d3976f953321147045ae41308f34bb9714"
+    },
+    {
+      "title": "Amber Sidewalks",
+      "slug": "amber-sidewalks",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/amber-sidewalks.mp3",
+      "sizeBytes": 2273814,
+      "sha256": "fd74088c776f53afd296a878cc3278000db9f21dd30ee2ce517a435108a11672"
+    },
+    {
+      "title": "Amber Windowpane",
+      "slug": "amber-windowpane",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/amber-windowpane.mp3",
+      "sizeBytes": 3116502,
+      "sha256": "94d435bb7e37d31a43772b7f0fd00a9b331678020dbf7c5a4e376b13c5c5d282"
+    },
+    {
+      "title": "Autumn on the Window Glass",
+      "slug": "autumn-on-the-window-glass",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/autumn-on-the-window-glass.mp3",
+      "sizeBytes": 4360038,
+      "sha256": "5867c6392f9fc92dd095da7dc6c2c2e642ced8401003dcbb6809bf3c349df499"
+    },
+    {
+      "title": "Bloom Between Showers",
+      "slug": "bloom-between-showers",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/bloom-between-showers.mp3",
+      "sizeBytes": 3599142,
+      "sha256": "fcacee518a1a6e0c47f79f93207c98b75b773e4b52e343416d8c3f2c406bfeed"
+    },
+    {
+      "title": "Blossoms on the Pavement",
+      "slug": "blossoms-on-the-pavement",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/blossoms-on-the-pavement.mp3",
+      "sizeBytes": 2509974,
+      "sha256": "242fdc2211d3fee26b04fe5e065f7a8f3e1935c9af6de767ce92c04481641241"
+    },
+    {
+      "title": "Embers After Midnight",
+      "slug": "embers-after-midnight",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/embers-after-midnight.mp3",
+      "sizeBytes": 2908806,
+      "sha256": "4788b6dd461ae53a6cf3a0031083ac0bfa2b5dfcc5972f5cbfb155f618e450be"
+    },
+    {
+      "title": "Fallen Leaves Loop",
+      "slug": "fallen-leaves-loop",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/fallen-leaves-loop.mp3",
+      "sizeBytes": 3190758,
+      "sha256": "a6067c79296c3635ca981149c9f350fe73ef2be8376f77368b5d67d64de2baff"
+    },
+    {
+      "title": "Fieldnotes at Dawn",
+      "slug": "fieldnotes-at-dawn",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/fieldnotes-at-dawn.mp3",
+      "sizeBytes": 3144390,
+      "sha256": "f7b79e99a17595d685767d9bf36677aea925357d7296ed10a23bd36c66202c3c"
+    },
+    {
+      "title": "Fireplace Loop",
+      "slug": "fireplace-loop",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/fireplace-loop.mp3",
+      "sizeBytes": 1930326,
+      "sha256": "56657eff4473b56ab04b72364dabbfd9c9460fb07b95f70ab2320c1371e708e8"
+    },
+    {
+      "title": "Hammock in the Shade",
+      "slug": "hammock-in-the-shade",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/hammock-in-the-shade.mp3",
+      "sizeBytes": 2650038,
+      "sha256": "cca8342f243273c5e15c60b3abf325151263b0dbade0b99cb23df47449b6c962"
+    },
+    {
+      "title": "Lemonade Film Grain",
+      "slug": "lemonade-film-grain",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/lemonade-film-grain.mp3",
+      "sizeBytes": 2416566,
+      "sha256": "2b52624e281dfd26419eb936a7ca7e799b94bb8b87808676d77bcb86010ae9b7"
+    },
+    {
+      "title": "Mist Over Green Fields",
+      "slug": "mist-over-green-fields",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/mist-over-green-fields.mp3",
+      "sizeBytes": 3443718,
+      "sha256": "5693c774c1bf795cd5d15ca206e0f42aa3c44ef205f6217de8aa67deb225fa0f"
+    },
+    {
+      "title": "Moon Over Red Dunes",
+      "slug": "moon-over-red-dunes",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/moon-over-red-dunes.mp3",
+      "sizeBytes": 2963430,
+      "sha256": "4cb13d82eebf747a85e0d45a22b5efebec5b48d583f0442f8b679db3182b2a51"
+    },
+    {
+      "title": "Palm Breeze Nap",
+      "slug": "palm-breeze-nap",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/palm-breeze-nap.mp3",
+      "sizeBytes": 2984454,
+      "sha256": "9dcb023fc721743a90735723610eb27d0465658dd115854eec1557b552528037"
+    },
+    {
+      "title": "Petals After Rain",
+      "slug": "petals-after-rain",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/petals-after-rain.mp3",
+      "sizeBytes": 2988390,
+      "sha256": "39f439209bfde5fc6f42aa92e4f2d6da8d518bc712b1686c0839e040de507356"
+    },
+    {
+      "title": "Petals in the Breeze",
+      "slug": "petals-in-the-breeze",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/petals-in-the-breeze.mp3",
+      "sizeBytes": 3657006,
+      "sha256": "43818b5cd592aaf699aae50a5880c65315f7de37bcfab644ab6e5e209b7e9a2d"
+    },
+    {
+      "title": "Picnic Polaroids",
+      "slug": "picnic-polaroids",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/picnic-polaroids.mp3",
+      "sizeBytes": 2638998,
+      "sha256": "e38203c16e42e5ccffeb338e61a585883dd981f83f8cd0bf23ea7d9eceb218d6"
+    },
+    {
+      "title": "Sidewalk Puddles",
+      "slug": "sidewalk-puddles",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/sidewalk-puddles.mp3",
+      "sizeBytes": 2353974,
+      "sha256": "836f997009b66bb2dbbcf9a13ad1c7e4bed0fbd1a16bd9ee255839b71373763d"
+    },
+    {
+      "title": "Snow on the Needle",
+      "slug": "snow-on-the-needle",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/snow-on-the-needle.mp3",
+      "sizeBytes": 2773518,
+      "sha256": "b663dfe93b4b2b1433c6ca62a02dc87d83480d9754edddb70288f94092b2f29a"
+    },
+    {
+      "title": "Spring Garden Loops",
+      "slug": "spring-garden-loops",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/spring-garden-loops.mp3",
+      "sizeBytes": 3797094,
+      "sha256": "3deb2b37f23b768daa139bffce6de8ba6a2dbca01092e8225d5db512383298e7"
+    },
+    {
+      "title": "Starlight in the Sand",
+      "slug": "starlight-in-the-sand",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/starlight-in-the-sand.mp3",
+      "sizeBytes": 3112614,
+      "sha256": "f5df4f566f017ae7aaf525afae65c084d5705970d05bacbc5da2a68c863908c1"
+    },
+    {
+      "title": "Storm Over Side Streets",
+      "slug": "storm-over-side-streets",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/storm-over-side-streets.mp3",
+      "sizeBytes": 3503478,
+      "sha256": "353ecb6617a55aaea8dfc7a584345e86b4108cdd8e15075a6e4dde50550c7434"
+    },
+    {
+      "title": "Thunder in the Dust",
+      "slug": "thunder-in-the-dust",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/thunder-in-the-dust.mp3",
+      "sizeBytes": 3929814,
+      "sha256": "74e4ab3fbb9d85de34bcd104f0cc29536d2f4a3b553ec6c94ecc00ec9ef96ded"
+    },
+    {
+      "title": "Tide Stained Polaroids",
+      "slug": "tide-stained-polaroids",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/tide-stained-polaroids.mp3",
+      "sizeBytes": 3057990,
+      "sha256": "2ffbf17f5263196c35d04061397ef20f0b8d5b58b37fc362abd3f0875aa51a55"
+    },
+    {
+      "title": "Winter Turntable",
+      "slug": "winter-turntable",
+      "category": "seasonal-weather",
+      "categoryLabel": "Seasons, Rain & Weather",
+      "file": "tracks/seasonal-weather/winter-turntable.mp3",
+      "sizeBytes": 2229222,
+      "sha256": "535d29cab03bfcec23f7a6d692dfcd5c9179d1b07d4f35ce21101ddb21840c94"
+    },
+    {
+      "title": "3AM Sink Light",
+      "slug": "3am-sink-light",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/3am-sink-light.mp3",
+      "sizeBytes": 2145366,
+      "sha256": "40ab70c6db0ee295f7e0cc4f8bae03434e5911a553b1cd1ccc550320b91580d7"
+    },
+    {
+      "title": "Barefoot in the Kitchen",
+      "slug": "barefoot-in-the-kitchen",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/barefoot-in-the-kitchen.mp3",
+      "sizeBytes": 3438486,
+      "sha256": "70ec14284ebabf6157b80b790fd232f5a024d33d2764212e702c4b4189dd5e89"
+    },
+    {
+      "title": "Candle Wax Heart",
+      "slug": "candle-wax-heart",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/candle-wax-heart.mp3",
+      "sizeBytes": 4174230,
+      "sha256": "8e5fda4bd308888af977ad52028bf46229293d91889c84e75b400aacf415eaf4"
+    },
+    {
+      "title": "Envelope on the Bed",
+      "slug": "envelope-on-the-bed",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/envelope-on-the-bed.mp3",
+      "sizeBytes": 3798294,
+      "sha256": "7700456425299f539fa97ac34fadc687f32ceda9047643dc732cce971654df57"
+    },
+    {
+      "title": "Golden Afternoon Groove",
+      "slug": "golden-afternoon-groove",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/golden-afternoon-groove.mp3",
+      "sizeBytes": 3762846,
+      "sha256": "99f2804001bc23349ea886cdbf83012bdf0bf8792a8204f4aaa058e8fe1f2728"
+    },
+    {
+      "title": "Honey on the Speakers",
+      "slug": "honey-on-the-speakers",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/honey-on-the-speakers.mp3",
+      "sizeBytes": 4174998,
+      "sha256": "fbb8eacbdf467eefdbf1e11c39eee6e5b78831c6ba3fdfb029120fe9812877e2"
+    },
+    {
+      "title": "Kitchen After the Party",
+      "slug": "kitchen-after-the-party",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/kitchen-after-the-party.mp3",
+      "sizeBytes": 3813558,
+      "sha256": "10220d912ac9b8626cc8e98ecfdd7d2ef439eafdd058dea45b06818b6496986a"
+    },
+    {
+      "title": "Lazy Love Letter Afternoon",
+      "slug": "lazy-love-letter-afternoon",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/lazy-love-letter-afternoon.mp3",
+      "sizeBytes": 6322686,
+      "sha256": "e1cb517868a019ff6182899d323431a0547a5fc390e243cd3299b1ee8394af67"
+    },
+    {
+      "title": "Midnight Notes on the Floor",
+      "slug": "midnight-notes-on-the-floor",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/midnight-notes-on-the-floor.mp3",
+      "sizeBytes": 4336782,
+      "sha256": "5fcf733688d8174d13a86b169c17ac5ed6c2b1e3b44923a5ed75549c25601150"
+    },
+    {
+      "title": "Midnight Table Talk",
+      "slug": "midnight-table-talk",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/midnight-table-talk.mp3",
+      "sizeBytes": 4206486,
+      "sha256": "57fd2d0355970e09fd90010e9f2b30af13f3513774f53c8a7096bcd7595d664b"
+    },
+    {
+      "title": "Old Photos New Heart",
+      "slug": "old-photos-new-heart",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/old-photos-new-heart.mp3",
+      "sizeBytes": 3338742,
+      "sha256": "3b15ace03d4389ed61efbe919ae14e696a4800c71caaef4c75d4da552a5841b8"
+    },
+    {
+      "title": "Polaroids in A Shoebox",
+      "slug": "polaroids-in-a-shoebox",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/polaroids-in-a-shoebox.mp3",
+      "sizeBytes": 3883158,
+      "sha256": "dbc0f4a074067d068b31dbc79a7f1a7ba054fc97d3673f9370dac5f506758c39"
+    },
+    {
+      "title": "Porcelain Heartbeat",
+      "slug": "porcelain-heartbeat",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/porcelain-heartbeat.mp3",
+      "sizeBytes": 2558454,
+      "sha256": "3aff141bb2faef9b166e29cda5f512dcfdc9413a757e986d7a0324cc0c60efbe"
+    },
+    {
+      "title": "Rain on Your Hoodie",
+      "slug": "rain-on-your-hoodie",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/rain-on-your-hoodie.mp3",
+      "sizeBytes": 3463590,
+      "sha256": "228c0a4b42b350ccd24d84d55a4d5476dc7120b71ebfcfc9df3b0b776f6cc13a"
+    },
+    {
+      "title": "Record Player Embrace",
+      "slug": "record-player-embrace",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/record-player-embrace.mp3",
+      "sizeBytes": 2768166,
+      "sha256": "81dffa3fff5c8a0cb38b31f80387c155ce15d48c69c9cd43dd5c3a6557ecd96b"
+    },
+    {
+      "title": "Rooftop Slow Jam",
+      "slug": "rooftop-slow-jam",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/rooftop-slow-jam.mp3",
+      "sizeBytes": 2642934,
+      "sha256": "f293a2671781b2d71e769c790f421e40b6c34a27ecbfd00e06080abd6335c93b"
+    },
+    {
+      "title": "Scattered Sheet Music",
+      "slug": "scattered-sheet-music",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/scattered-sheet-music.mp3",
+      "sizeBytes": 3135606,
+      "sha256": "aa83c09299574f841ed913f7eeac308b3de0169f0410d842ae57210c4b64d611"
+    },
+    {
+      "title": "Skyline and Satin",
+      "slug": "skyline-and-satin",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/skyline-and-satin.mp3",
+      "sizeBytes": 2768598,
+      "sha256": "3fdd3d1171646831b7054810f99236aca696b583d1d467b2ed484baaf42c445b"
+    },
+    {
+      "title": "Slow Dance in the Living Room",
+      "slug": "slow-dance-in-the-living-room",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/slow-dance-in-the-living-room.mp3",
+      "sizeBytes": 2329350,
+      "sha256": "d888ec5d8360bd4cbeb96fcc59d4b972e5044c3b6c306e254c8ab3b8be2465c6"
+    },
+    {
+      "title": "Slow Dancing By the Stove",
+      "slug": "slow-dancing-by-the-stove",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/slow-dancing-by-the-stove.mp3",
+      "sizeBytes": 4207422,
+      "sha256": "1111fb21d47e198bf4991082c44f83e77bb3812103621cfee140e96e4f031f09"
+    },
+    {
+      "title": "Velvet Candle Smoke",
+      "slug": "velvet-candle-smoke",
+      "category": "soul-rnb",
+      "categoryLabel": "Soul, Slow Jams & Warm Rooms",
+      "file": "tracks/soul-rnb/velvet-candle-smoke.mp3",
+      "sizeBytes": 3798030,
+      "sha256": "281fba1e5cb9ab9bd43a09095f6d77b8f919f0a93c10f62866ef00686b1e8ebd"
+    }
+  ]
+}

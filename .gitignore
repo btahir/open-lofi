@@ -1,0 +1,9 @@
+# Audio files (distributed via GitHub Releases, not git)
+tracks/**/*.mp3
+
+# Release artifacts
+dist/
+*.zip
+
+# OS
+.DS_Store
