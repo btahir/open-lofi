@@ -1,8 +1,8 @@
-# Open Lo-fi
+# Open Lo-Fi
 
-![Open Lo-fi](assets/opengraph.png)
+![Open Lo-Fi](assets/opengraph.png)
 
-A free, public-domain collection of over **150 lo-fi music tracks** across 10 categories.
+A free, public-domain collection of **150+ lo-fi music tracks** across 10 categories.
 Use them in apps, videos, streams, games, podcasts — anything. No attribution required.
 
 Released under [CC0 1.0 Universal](LICENSE) (public domain).
